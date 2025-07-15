@@ -1,4 +1,3 @@
-
 import { join, dirname } from 'path'
 import { createRequire } from 'module'
 import { fileURLToPath } from 'url'
@@ -7,7 +6,6 @@ import { watchFile, unwatchFile } from 'fs'
 import cfonts from 'cfonts'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const require = createRequire(__dirname)
 
 cfonts.say('Yuru\nYuriMD', {
   font: 'block',
