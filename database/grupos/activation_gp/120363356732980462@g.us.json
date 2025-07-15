@@ -1,0 +1,89 @@
+[
+  {
+    "name": "✨⚡☆𝔸𝙼𝕀𝚉𝐀𝔻𝔼𝚂☆⚡✨",
+    "groupId": "120363356732980462@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": true,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "558591624216@s.whatsapp.net",
+      "5515981034995@s.whatsapp.net",
+      "5519982546868@s.whatsapp.net"
+    ],
+    "advertir": [
+      "558892640614@s.whatsapp.net"
+    ],
+    "prefixos": [
+      "/"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "ausentes": [
+      {
+        "id": "558598261859@s.whatsapp.net",
+        "msg": "assistindo"
+      }
+    ],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "\n🔥 BEM-VINDOS AO GRUPO! 🔥\n\n💥 Nome:\n🌇 Cidade:\n🎂 Idade:\n📸 Foto:\n\n⚠️ ATENÇÃO! ⚠️\n📜 Leia as regras! ✅",
+        "legendasaiu": "ala o(a) corno(a) do(a) #numerodele# saiu do grupo kkkkk."
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": true,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": false
+  }
+]
